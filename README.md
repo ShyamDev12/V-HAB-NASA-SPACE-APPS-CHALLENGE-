@@ -6,5 +6,5 @@ We have developed a Mobile Application solution called V-HAB for "Near Space Nea
 
 ![MODULE-2]("https://github.com/ShyamDev12/V-HAB-NASA-SPACE-APPS-CHALLENGE-/blob/main/trim2.gif" =250*300)
 
-<img src="https://github.com/ShyamDev12/V-HAB-NASA-SPACE-APPS-CHALLENGE-/blob/main/trim2.gif" =250*300>
+![](https://github.com/ShyamDev12/V-HAB-NASA-SPACE-APPS-CHALLENGE-/blob/main/trim2.gif =250x250)
 
